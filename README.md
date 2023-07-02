@@ -1,4 +1,4 @@
-# games
+# Games
 <img width="666" alt="1" src="https://github.com/leonardoLavagna/games/assets/91341004/8c4f7c91-08bd-439d-8d85-cbd83f88e995">
 
 Here you can find the following games developed in C and Python:
